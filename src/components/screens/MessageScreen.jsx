@@ -27,13 +27,14 @@ export default function MessageScreen({ onNext }) {
                     className=" h-auto max-w-xl bg-gradient-to-br from-pink-200 via-pink-100 to-pink-50 rounded-2xl shadow-lg p-4 md:p-6 text-center"
                 >
                     <p className="text-[#301733] text-base md:text-lg leading-relaxed overflow-y-auto max-h-[400px] pr-2">
-                        Happy Birthday, Cutiepie! You deserve all the happiness, love, and smiles in the world today and always.
-                        You have this special way of making everything around you brighter, your smile, your kindness, and the way
-                        you make people feel truly cared for. I hope your day is filled with laughter, surprises, and moments that
-                        make your heart happy. You’re truly one of a kind, and I just want you to know how special you are.
-                        Keep being the amazing person you are, spreading joy wherever you go. Wishing you endless happiness,
-                        success, and all the sweet things life has to offer. 💗
-                        Keep being the amazing person you are, spreading joy wherever you go. Wishing you endless happiness,
+                       Happy Birthday, Munnaa! 🤍
+
+                     May Allah fill your life with happiness, peace, and endless blessings.
+                     You deserve all the goodness this world has to offer — His mercy, His light, and His protection in every step you take. 🤍
+                     You have a special way of bringing noor into the lives around you — through your kindness, your smile, and the way you make people feel truly valued.
+                     I pray that Allah keeps that light in your heart always shining, guiding you and protecting you wherever you go. 🤍
+                     May this new year bring you endless joy, pure rizq, success, good health, and moments that make your heart feel peaceful and full.
+                     You are truly one of a kind, and the goodness you carry is a blessing to everyone who knows you. 🤍,
                     </p>
                 </motion.div>
             </div>
